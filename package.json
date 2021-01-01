@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ri003074/UdemyTypescriptHamSan/issues"
   },
-  "homepage": "https://github.com/ri003074/UdemyTypescriptHamSan#readme"
+  "homepage": "https://github.com/ri003074/UdemyTypescriptHamSan#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
